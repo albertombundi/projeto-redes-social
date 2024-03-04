@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../imagens/fundo-mar.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -35,7 +35,7 @@ section#telefone {
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
-iframe#tela{
+iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
